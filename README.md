@@ -1,2 +1,11 @@
+
 # Socially
-a landing page for a social media company
+
+- A landing page for social media company
+   
+
+
+
+## Technology Used:-
+
+HTML, CSS
